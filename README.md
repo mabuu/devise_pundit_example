@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example app using devise and pundit. 
 
-Things you may want to cover:
+Versions:
 
-* Ruby version
+* Ruby version: 2.4.2
 
-* System dependencies
+* Rails version: 5.1.4
 
-* Configuration
+Sources
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* https://code.tutsplus.com/tutorials/authorization-with-pundit--cms-28202
