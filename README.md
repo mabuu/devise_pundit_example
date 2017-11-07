@@ -2,12 +2,12 @@
 
 This is an example app using devise and pundit. 
 
-Versions:
+**Versions:**
 
 * Ruby version: 2.4.2
 
 * Rails version: 5.1.4
 
-Sources
+**Sources:**
 
-* https://code.tutsplus.com/tutorials/authorization-with-pundit--cms-28202
+* tutsplus.com - Authorization with Pundit https://code.tutsplus.com/tutorials/authorization-with-pundit--cms-28202
